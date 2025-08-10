@@ -20,6 +20,7 @@ Use the automatic installer for easy setup:
    ```
 2. Run the installer:
    ```bash
+   chmod +x install.sh
    ./install.sh
    ```
 
@@ -130,6 +131,7 @@ Base config example:
 
 1. Just run:
    ```bash
+   chmod +x uninstall.sh
    ./uninstall.sh
    ```
 
